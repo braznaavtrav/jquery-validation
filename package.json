@@ -25,6 +25,7 @@
 	"scripts": {
 		"test": "grunt"
 	},
+	"main": "./dist/jquery.validate.js",
 	"dependencies": {},
 	"devDependencies": {
 		"commitplease": "1.11.0",
